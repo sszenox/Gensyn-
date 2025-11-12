@@ -1,2 +1,1 @@
-# Gensyn-
-Node Guide Of Gensynai
+first commit
